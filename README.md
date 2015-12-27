@@ -1,4 +1,4 @@
-# ionic_fb_integration
+# Ionic facebook integration for localhost/browser and iOS - ionic_fb_intration
 Sample ionic (http://ionicframework.com/) app with FB integration. Works both on localhost in browser and on iOS device.
 
 This app is based on tutorial provided at https://ccoenraets.github.io/ionic-tutorial/ionic-facebook-integration.html. However, I did not manage to build a working FB integrated app basing on the ionic tutorial. 
