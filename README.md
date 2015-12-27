@@ -9,6 +9,6 @@ Differences between this project and ionic tutorial are:
 (put 'if (!window.cordova || cordova.platformId == "browser")' 
 instead of original 
 'if (cordova.platformId == "browser")')
-* index.html has an additional element '<div id="fb-root"></div>'
+* index.html has an additional element '\<div id="fb-root">\</div>'
 
 You should provide you FB app's id in file /www/js/_btGlobals.js at line 15 (btGlobals.fbAppId)
